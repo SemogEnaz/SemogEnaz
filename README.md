@@ -8,11 +8,11 @@ I am a university student studying at Monah. I'm enrolled in Monah's **Software 
 
 ## Tech I work with
 
- Frontend: React
-  Backend: Nodejs, Nextjs, Django
-Databases: MySQL
-Scripting: Python
-   DevOps: Nginx
+ Frontend: React  
+  Backend: Nodejs, Nextjs, Django  
+Databases: MySQL  
+Scripting: Python  
+   DevOps: Nginx  
 
 ## Current 
 
